@@ -5,6 +5,6 @@
 
 check version typescript complier: tsc -v // Version 4.8.3
 
-## Run .ts file
-cd dir file
-ts-node lesson.ts
+### Run .ts file
+- cd to folder
+- ts-node lesson.ts
