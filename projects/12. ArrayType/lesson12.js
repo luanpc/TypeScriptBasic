@@ -1,0 +1,1 @@
+let myarr = ["Hello", "hoi dan it", 25]
